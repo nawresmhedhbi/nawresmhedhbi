@@ -1,6 +1,6 @@
 ### Hi there, I'm Nawres 🙋‍♀️
 
-I have recently graduated and I am a software engineer specilaized in Data Science, for short I am a Junior Data Scientist 👩‍💻. I have a great passion for AI and I am working on various projects in this field .  
+I have recently graduated and I am a software engineer specialized in Data Science, for short I am a Junior Data Scientist 👩‍💻. I have a great passion for AI and I am working on various projects in this field .  
 <!--
 **nawresmhedhbi/nawresmhedhbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
