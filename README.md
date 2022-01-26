@@ -1,11 +1,11 @@
 
 ![Header](https://github.com/nawresmhedhbi/nawresmhedhbi/blob/main/head.gif)
 ### Hi there, I'm Nawres 🙋 !
-I have recently graduated and I am a software engineer specialized in Data Science, for short I am a Junior Data Scientist 👩‍💻. I have always been fascinated by what we can do using only data, I always say 💡"Data Has Better Ideas"💡.  🤖 Artificial Intelligence impresses me, it's an art. 
+I have recently graduated and I am a software engineer specialized in Data Science, for short I am a Junior Data Scientist 👩‍💻. I have always been fascinated by what we can do using only data, I always say 💡Data Has Better Ideas💡.  🤖 Artificial Intelligence impresses me, it's an art. 
 🎯 Aiming always to learn more and reinforce my knowledge in these fields through projects.
 
 - 🚀 I have a great passion for Artificial Intelligence and developing software solutions leveraging it for real world impact.
-- 🔭 I am currently working on my personal blog in which every week a new post will be posted ✨"Sharing is caring"✨
+- 🔭 I am currently working on my personal blog in which every week a new post will be posted ✨Sharing is caring✨
 - 🌱 I’m still in the process of learning everything and always will be !
 - 😄 I am interested and curious about the entrepreneurial world !
 - ⚡ Fact about me : I love sports, cooking and dogs
